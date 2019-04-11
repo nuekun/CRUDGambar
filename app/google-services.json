@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "10141801086",
+    "firebase_url": "https://crudgambar-89638.firebaseio.com",
+    "project_id": "crudgambar-89638",
+    "storage_bucket": "crudgambar-89638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10141801086:android:ff2ef56c30d00a20",
+        "android_client_info": {
+          "package_name": "com.nue.crudgambar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10141801086-c1bt9arqm749690fgop0pjbmb2tdbsvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nue.crudgambar",
+            "certificate_hash": "b775160bc44bfe1d40c8520db6a1166e688378fb"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjQeJo3VWpktC5yahkblMuD3iBLPP6AUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10141801086-36e4gifses1v6gdh8s7256l3urnotviq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
